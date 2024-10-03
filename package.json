@@ -11,5 +11,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "eslint": "^9.11.1",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "eslint-plugin-react": "^7.37.0"
   }
 }
